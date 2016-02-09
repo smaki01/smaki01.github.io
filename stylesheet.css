@@ -9,19 +9,21 @@ body{
 }
 
 
-p1 {
-color:  000066;
+h1 {
+color:  #000066;
 font-size: 500%;
 padding: 50px;
 
 }
 
-p2 {
-	color: 000066;
-	font-size: large;
-	padding: 50px;
-	
+h2 {
+	color: #000066;
+font-size: x-large;
+padding: 25px;;
 }
- #photo {
- 	
+
+p{
+	color: #000066;
+	font-size: large;
+	padding: 50px;	
  }
