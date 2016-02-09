@@ -1,9 +1,18 @@
 body{
-	background-color: gray;
-
+	background-color: #191970;
+	border-style: dotted;
+	margin: 10%
 }
+
+
 p1 {
-color: blue;
-font-size: xx-large;
+color:  #00FFFF;
+font-size: 500%;
 font-family: sans-serif;
+}
+
+p2 {
+	color: #00FFFF;
+	font-size: large;
+	font-family: sans-serif;
 }
