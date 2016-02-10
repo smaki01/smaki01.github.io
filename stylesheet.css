@@ -27,3 +27,11 @@ p{
 	font-size: large;
 	padding: 50px;	
  }
+
+ 
+ IMG.photo {
+ 	 height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+ }
